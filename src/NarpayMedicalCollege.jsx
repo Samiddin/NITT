@@ -79,8 +79,8 @@ const T = {
     contactText: "Savollaringiz bormi? Quyidagi ma'lumotlar orqali murojaat qiling.",
     contactInfo: [
       { t: "Manzil", v: "Samarqand viloyati, Narpay tumani" },
-      { t: "Telefon", v: "+998 (90) 123-45-67" },
-      { t: "Email", v: "info@narpay-med.uz" },
+      { t: "Telefon", v: "+998 (90) 948-33-86" },
+      { t: "Email", v: "narpayinnovatsiontibbiyottex@gmail.com" },
       { t: "Ish vaqti", v: "Dush-Shan: 8:00 - 17:00" },
     ],
     formName: "Ismingiz",
@@ -163,8 +163,8 @@ const T = {
     contactText: "Есть вопросы? Обращайтесь по указанным ниже контактам.",
     contactInfo: [
       { t: "Адрес", v: "Самаркандская область, Нарпайский район" },
-      { t: "Телефон", v: "+998 (90) 123-45-67" },
-      { t: "Email", v: "info@narpay-med.uz" },
+      { t: "Телефон", v: "+998 (90) 948-33-86" },
+      { t: "Email", v: "narpayinnovatsiontibbiyottex@gmail.com" },
       { t: "Время работы", v: "Пн-Сб: 8:00 - 17:00" },
     ],
     formName: "Ваше имя",
@@ -247,8 +247,8 @@ const T = {
     contactText: "Have questions? Reach out using the details below.",
     contactInfo: [
       { t: "Address", v: "Samarkand Region, Narpay District" },
-      { t: "Phone", v: "+998 (90) 123-45-67" },
-      { t: "Email", v: "info@narpay-med.uz" },
+      { t: "Phone", v: "+998 (90) 948-33-86" },
+      { t: "Email", v: "narpayinnovatsiontibbiyottex@gmail.com" },
       { t: "Working Hours", v: "Mon-Sat: 8:00 - 17:00" },
     ],
     formName: "Your Name",
