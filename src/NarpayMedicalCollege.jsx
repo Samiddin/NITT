@@ -434,15 +434,15 @@ export default function App() {
           <div className="grid grid-cols-2 gap-4">
             <div className="flex h-48 flex-col justify-end rounded-2xl bg-gradient-to-br from-blue-700 to-blue-900 p-5 text-white shadow-lg">
               <Building2 className="mb-2 h-9 w-9 text-amber-300" />
-              <span className="text-sm font-semibold">Campus</span>
+              <span className="text-sm font-semibold">Bino</span>
             </div>
             <div className="mt-8 flex h-48 flex-col justify-end rounded-2xl bg-gradient-to-br from-amber-400 to-amber-600 p-5 text-slate-900 shadow-lg">
               <Microscope className="mb-2 h-9 w-9" />
-              <span className="text-sm font-semibold">Labs</span>
+              <span className="text-sm font-semibold">Laboratoriya</span>
             </div>
             <div className="flex h-48 flex-col justify-end rounded-2xl bg-gradient-to-br from-slate-700 to-slate-900 p-5 text-white shadow-lg">
               <Users className="mb-2 h-9 w-9 text-amber-300" />
-              <span className="text-sm font-semibold">Students</span>
+              <span className="text-sm font-semibold">Talabalar</span>
             </div>
             <div className="mt-8 flex h-48 flex-col justify-end rounded-2xl bg-gradient-to-br from-blue-500 to-blue-700 p-5 text-white shadow-lg">
               <HeartPulse className="mb-2 h-9 w-9 text-amber-300" />
