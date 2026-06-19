@@ -292,7 +292,7 @@ export default function App() {
       <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? "bg-slate-900/95 shadow-lg backdrop-blur" : "bg-slate-900/80 backdrop-blur"}`}>
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
           <button onClick={() => go("home")} className="flex items-center gap-3 text-left">
-            <img src="logo.png" alt="Logo" className="h-11 w-11 shrink-0 rounded-xl object-contain" />
+            <img src="/logo.png" alt="Logo" className="h-11 w-11 shrink-0 rounded-xl object-contain" />
             <div className="leading-tight">
               <div className="text-sm font-bold text-amber-400 sm:text-base">{t.brandTop}</div>
               <div className="text-[11px] font-medium text-slate-300 sm:text-xs">{t.brandBottom}</div>
