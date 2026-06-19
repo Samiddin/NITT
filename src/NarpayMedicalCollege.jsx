@@ -22,7 +22,7 @@ const T = {
     stats: [
       { n: "2500+", l: "Talabalar" },
       { n: "15 +", l: "Tajribali ustozlar" },
-      { n: "8", l: "Mutaxassisliklar" },
+      { n: "3", l: "Mutaxassisliklar" },
       { n: "15+", l: "Yillik tajriba" },
     ],
     aboutTag: "Biz haqimizda",
