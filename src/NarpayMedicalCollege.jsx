@@ -20,7 +20,7 @@ const T = {
     heroBtn1: "Yo'nalishlarni ko'rish",
     heroBtn2: "Biz bilan bog'lanish",
     stats: [
-      { n: "2500+", l: "Talabalar" },
+      { n: "500+", l: "Talabalar" },
       { n: "15 +", l: "Tajribali ustozlar" },
       { n: "3", l: "Mutaxassisliklar" },
       { n: "15+", l: "Yillik tajriba" },
@@ -48,11 +48,8 @@ const T = {
     programsText: "Sog'liqni saqlash sohasining eng talab qilingan kasblari bo'yicha ta'lim oling.",
     programs: [
       { t: "Hamshiralik ishi", d: "Bemorlarni parvarish qilish, tibbiy muolajalar va hamshiralik faoliyati asoslari.", dur: "3 yil" },
-      { t: "Farmatsevtika", d: "Dori vositalari, retseptlar va dorixona faoliyatini boshqarish bo'yicha mutaxassislik.", dur: "3 yil" },
-      { t: "Laboratoriya diagnostikasi", d: "Tibbiy tahlillar, laboratoriya tadqiqotlari va diagnostika usullari.", dur: "3 yil" },
-      { t: "Davolash ishi", d: "Feldsher tayyorlash, birlamchi tibbiy yordam va davolash asoslari.", dur: "3 yil" },
-      { t: "Stomatologiya", d: "Tish-jag' tizimi, ortopedik stomatologiya va gigiena bo'yicha tayyorgarlik.", dur: "3 yil" },
-      { t: "Akusherlik ishi", d: "Homiladorlik, tug'ruq va onalik parvarishi bo'yicha mutaxassislik.", dur: "3 yil" },
+      { t: "Davolash ishi", d: "Feldsher tayyorlash, birlamchi tez tibbiy yordam va davolash asoslari.", dur: "3 yil" },
+      { t: "Tibbiy brigada hamshirasi", d: "Aholiga birlamchi tibbiy sanitariya yordamini ko‘rsatuvchi birlamchi tibbiyot mutaxassisligi.", dur: "3 yil" },
     ],
     admTag: "Qabul",
     admTitle: "Qabul jarayoni",
@@ -104,7 +101,7 @@ const T = {
     heroBtn1: "Посмотреть направления",
     heroBtn2: "Связаться с нами",
     stats: [
-      { n: "2500+", l: "Студентов" },
+      { n: "500+", l: "Студентов" },
       { n: "15 +", l: "Преподавателей" },
       { n: "3", l: "Специальностей" },
       { n: "15+", l: "Лет опыта" },
@@ -132,8 +129,6 @@ const T = {
     programsText: "Получите образование по самым востребованным профессиям сферы здравоохранения.",
     programs: [
       { t: "Сестринское дело", d: "Уход за пациентами, медицинские процедуры и основы сестринской деятельности.", dur: "3 года" },
-      { t: "Фармацевтика", d: "Лекарственные средства, рецептура и управление аптечной деятельностью.", dur: "3 года" },
-      { t: "Лабораторная диагностика", d: "Медицинские анализы, лабораторные исследования и методы диагностики.", dur: "3 года" },
       { t: "Лечебное дело", d: "Подготовка фельдшеров, первичная медпомощь и основы лечения.", dur: "3 года" },
       { t: "Стоматология", d: "Зубочелюстная система, ортопедическая стоматология и гигиена.", dur: "3 года" },
       { t: "Акушерское дело", d: "Беременность, роды и материнский уход.", dur: "3 года" },
@@ -188,7 +183,7 @@ const T = {
     heroBtn1: "View Programs",
     heroBtn2: "Get in Touch",
     stats: [
-      { n: "2500+", l: "Students" },
+      { n: "500+", l: "Students" },
       { n: "15 +", l: "Instructors" },
       { n: "3", l: "Specialties" },
       { n: "15+", l: "Years of Experience" },
