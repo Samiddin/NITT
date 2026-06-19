@@ -130,6 +130,7 @@ const T = {
     programs: [
       { t: "Сестринское дело", d: "Уход за пациентами, медицинские процедуры и основы сестринской деятельности.", dur: "3 года" },
       { t: "Лечебное дело", d: "Подготовка фельдшеров, первичная медпомощь и основы лечения.", dur: "3 года" },
+      { t: "Медицинская сестра бригады", d: "Основная медицинская специальность, оказывающая первичную медицинскую и санитарную помощь населению.", dur: "3 года" },
     ],
     admTag: "Поступление",
     admTitle: "Процесс поступления",
@@ -210,6 +211,7 @@ const T = {
     programs: [
       { t: "Nursing", d: "Patient care, medical procedures and the fundamentals of nursing.", dur: "3 years" },
       { t: "General Medicine", d: "Paramedic training, primary care and treatment fundamentals.", dur: "3 years" },
+      { t: "Medical team nurse", d: "A primary medical specialty that provides primary medical and sanitary assistance to the population.", dur: "3 years" },
     ],
     admTag: "Admissions",
     admTitle: "Admission Process",
