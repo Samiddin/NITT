@@ -130,8 +130,6 @@ const T = {
     programs: [
       { t: "Сестринское дело", d: "Уход за пациентами, медицинские процедуры и основы сестринской деятельности.", dur: "3 года" },
       { t: "Лечебное дело", d: "Подготовка фельдшеров, первичная медпомощь и основы лечения.", dur: "3 года" },
-      { t: "Стоматология", d: "Зубочелюстная система, ортопедическая стоматология и гигиена.", dur: "3 года" },
-      { t: "Акушерское дело", d: "Беременность, роды и материнский уход.", dur: "3 года" },
     ],
     admTag: "Поступление",
     admTitle: "Процесс поступления",
@@ -211,11 +209,7 @@ const T = {
     programsText: "Get educated in the most in-demand professions of the healthcare sector.",
     programs: [
       { t: "Nursing", d: "Patient care, medical procedures and the fundamentals of nursing.", dur: "3 years" },
-      { t: "Pharmacy", d: "Medicines, prescriptions and management of pharmacy operations.", dur: "3 years" },
-      { t: "Laboratory Diagnostics", d: "Medical analyses, laboratory research and diagnostic methods.", dur: "3 years" },
       { t: "General Medicine", d: "Paramedic training, primary care and treatment fundamentals.", dur: "3 years" },
-      { t: "Dentistry", d: "Dental system, orthopedic dentistry and hygiene training.", dur: "3 years" },
-      { t: "Midwifery", d: "Pregnancy, childbirth and maternal care specialty.", dur: "3 years" },
     ],
     admTag: "Admissions",
     admTitle: "Admission Process",
