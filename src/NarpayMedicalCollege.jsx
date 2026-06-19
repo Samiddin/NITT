@@ -21,7 +21,7 @@ const T = {
     heroBtn2: "Biz bilan bog'lanish",
     stats: [
       { n: "2500+", l: "Talabalar" },
-      { n: "120+", l: "Tajribali ustozlar" },
+      { n: "15 +", l: "Tajribali ustozlar" },
       { n: "8", l: "Mutaxassisliklar" },
       { n: "15+", l: "Yillik tajriba" },
     ],
@@ -105,8 +105,8 @@ const T = {
     heroBtn2: "Связаться с нами",
     stats: [
       { n: "2500+", l: "Студентов" },
-      { n: "120+", l: "Преподавателей" },
-      { n: "8", l: "Специальностей" },
+      { n: "15 +", l: "Преподавателей" },
+      { n: "3", l: "Специальностей" },
       { n: "15+", l: "Лет опыта" },
     ],
     aboutTag: "О нас",
@@ -189,8 +189,8 @@ const T = {
     heroBtn2: "Get in Touch",
     stats: [
       { n: "2500+", l: "Students" },
-      { n: "120+", l: "Instructors" },
-      { n: "8", l: "Specialties" },
+      { n: "15 +", l: "Instructors" },
+      { n: "3", l: "Specialties" },
       { n: "15+", l: "Years of Experience" },
     ],
     aboutTag: "About Us",
